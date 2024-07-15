@@ -1,0 +1,62 @@
+
+******************************************************************
+		LOW VOLTAGE WINDING CALCULATION OF THE TRANSFORMER
+
+******************************************************************
+
+
+Secondary Line Voltage is 433.00 V
+Connection Type is Star
+Phase Voltage is 249.993 V
+Turn per Phase is 64.15
+Secondary Current per phase is 100.003 A
+Current Density in Secondary phase is 2.20 A/mm^2
+Total Area of Secondary Conductor is 45.456 mm^2
+ Dimension of the Conductor is 12.000 * 4.500
+Modified area of Secondary Conductor is 54.000 mm^2
+Modified Current Density in Secondary phase is 1.85 A/mm^2
+Covering of Conductor is 0.500 mm
+ Dimension of the conductor with covering is 12.500 * 5.000
+Number of layer is used is 3
+Using helical winding space to be provided 23.00 turns along the axis
+Turns along the axial depth is 23.00
+Axial depth of the Winding ls 287.500 mm
+Clearance is 16.000 mm
+The calculation does not satisfy (20) minimum clearance. Recalculate.
+ Dimension of the Conductor is 12.000 * 5.500
+Modified area of Secondary Conductor is 66.000 mm^2
+Modified Current Density in Secondary phase is 1.52 A/mm^2
+Covering of Conductor is 0.500 mm
+ Dimension of the conductor with covering is 12.500 * 6.000
+Number of layer is used is 3
+Using helical winding space to be provided 23.00 turns along the axis
+Turns along the axial depth is 23.00
+Axial depth of the Winding ls 287.500 mm
+Clearance is 16.000 mm
+The calculation does not satisfy (20) minimum clearance. Recalculate.
+ Dimension of the Conductor is 13.000 * 5.500
+Modified area of Secondary Conductor is 71.500 mm^2
+Modified Current Density in Secondary phase is 1.40 A/mm^2
+Covering of Conductor is 0.500 mm
+ Dimension of the conductor with covering is 13.500 * 6.000
+Number of layer is used is 3
+Using helical winding space to be provided 22.00 turns along the axis
+Turns along the axial depth is 22.00
+Axial depth of the Winding ls 297.000 mm
+Clearance is 11.250 mm
+The calculation does not satisfy (20) minimum clearance. Recalculate.
+ Dimension of the Conductor is 12.000 * 5.500
+Modified area of Secondary Conductor is 66.000 mm^2
+Modified Current Density in Secondary phase is 1.52 A/mm^2
+Covering of Conductor is 0.500 mm
+ Dimension of the conductor with covering is 12.500 * 6.000
+Number of layer is used is 3
+Using helical winding space to be provided 22.00 turns along the axis
+Turns along the axial depth is 22.00
+Axial depth of the Winding ls 275.000 mm
+Clearance is 22.250 mm
+ Thickness of the pressboard cylinders is 0.500 mm
+lnsulations b/w lv winding and core is 1.500 mm
+ Diameter of the circumscribing circle is 0.177 mm
+ Inside diameter is 180.052 mm
+Outside diameter is 218.052 mm

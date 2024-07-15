@@ -1,0 +1,13 @@
+
+******************************************************************
+		YOKE DIMENSION OF THE TRANSFORMER
+
+******************************************************************
+
+
+The ratio-area of yoke to limbs 1.20
+Flux Density in the Yoke 0.833333 Wb/m^2
+Area of the Yoke is 0.021065 m^2
+Gross area of the Yoke is 0.023406 m^02
+Depth of the Yoke is 0.143 m
+Height of the Yoke is 0.148 m

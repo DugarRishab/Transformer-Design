@@ -1,0 +1,12 @@
+
+******************************************************************
+		CALCULATION OF EFFECIENCY OF THE TRANSFORMER
+******************************************************************
+
+
+
+Total Loss is 1622.272 W
+
+Efficiency of the transformer is 97.88
+
+Condition for Maximum Efficiency is 0.532

@@ -1,0 +1,23 @@
+
+******************************************************************
+		CALCULATION OF LOSSES OF THE TRANSFORMER
+******************************************************************
+
+
+
+I^2R Loss
+I^2R Loss is 1099.094 W
+
+Percentage Stray Loss is 15.000
+I^R Loss including Stray Loss is 1263.958 W
+CORE Loss
+
+Density of Lamination is 7600.000 Kg/m^2
+Weight of the Limbs is 127.878 Kg
+Specific Core Loss is 1.200 W/kg
+Core Loss in the Limbs is 153.454 W
+Density of Lamination is 7600.000 Kg/m^2
+Weight of the Yokes is 241.012 Kg
+Specific Core Loss is 0.850 W/kg
+Core Loss in the Yoke is 204.861 W
+Total Core Loss is 358.314 W
